@@ -51,7 +51,7 @@ public class Main {
         System.out.println(t.get(46));
 
         t.delete(t.get(46), 4, (byte)100);
-
+        /*
         System.out.println("Nuplet 46 apres suppression");
         System.out.println(t.get(46));
         System.out.println("############################################\n");
@@ -98,6 +98,9 @@ public class Main {
         for (Nuplet n: result)
             System.out.println(n.toString());
         System.out.println("############################################\n");
+        */
+
+
     }
 }
 
